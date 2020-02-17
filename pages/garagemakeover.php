@@ -2,7 +2,7 @@
 
 if($_POST["submit"]) {
     $recipient="sales@rhinosolutions3.com";
-    $subject="Customer From Submission - Garage Makeover Page";
+    $subject="Customer From Submission - Storage Systems Page";
     $sender=$_POST["sender"];
     $senderEmail=$_POST["senderEmail"];
     $senderPhone=$_POST["senderPhone"];
@@ -25,7 +25,7 @@ Licence URI: http://www.os-templates.com/template-terms
 -->
 <html>
 <head>
-<title>RS3 | Garage Makeover</title>
+<title>RS3 | Storage Systems</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link rel="stylesheet" href="../layout/styles/w3.css">
@@ -109,7 +109,7 @@ Licence URI: http://www.os-templates.com/template-terms
               <li><a href="/pages/decorativechip.php">Decorative Chip</a></li>
               <li><a href="/pages/medici.php">Medici</a></li>
               <!--<li><a href="/pages/metallic.php">Metallic</a></li>-->
-              <li><a href="#">Garage Makeover</a></li>
+              <li><a href="#">Storage Systems</a></li>
             </ul>
       </li>
       <li><a href="/pages/cleaning.php">Residential Construction</a></li>
@@ -129,7 +129,7 @@ Licence URI: http://www.os-templates.com/template-terms
     <!-- ################################################################################################ -->
     <ul>
       <li><a href="/index.php">Home</a></li>
-      <li><a href="#">Garage Makeover</a></li>
+      <li><a href="#">Storage Systems</a></li>
     </ul>
     <!-- ################################################################################################ -->
   </div>
@@ -149,8 +149,8 @@ Licence URI: http://www.os-templates.com/template-terms
           <li><a href="/pages/decorativechip.php">Decorative Chip</a>
           <li><a href="/pages/medici.php">Medici</a></li>
           <!--<li><a href="/pages/metallic.php">Metallic</a></li>-->
-          <li><a href="http://www.torginol.com/pdf/cf_brochure.pdf" target="_blank">Additional Colors Catalog</a></li>
-          <li><a href="#">Garage Makeover</a></li>
+          <!-- <li><a href="http://www.torginol.com/pdf/cf_brochure.pdf" target="_blank">Additional Colors Catalog</a></li> -->
+          <li><a href="#">Storage Systems</a></li>
         </ul>
       </nav>
       <!--<div class="sdb_holder">
@@ -302,7 +302,7 @@ Licence URI: http://www.os-templates.com/template-terms
       }
     </style>
       <!-- ################################################################################################ -->
-      <h1>Garage Makeover</h1>
+      <h1>Storage Systems</h1>
       <!--<img class="imgr borderedbox inspace-5" src="../images/demo/imgr.gif" alt="">-->
       <div class="w3-content w3-display-container w3-center" style="width:95%">
         <img class="mySlides dw-center" src="../images/gMakeover/A.jpeg" style="width:70%">
@@ -352,7 +352,7 @@ Licence URI: http://www.os-templates.com/template-terms
         <br>
         <h1>Overhead Rack</h1>
         <img src="../images/gMakeover/IMG-0344.jpg" alt="display this" style="height:300px;">
-        <img src="../images/gMakeover/IMG-0775.JPG" alt="display this" style="height:300px;">
+        <img src="../images/gMakeover/IMG-0775.jpg" alt="display this" style="height:300px;">
 
     </div>
 

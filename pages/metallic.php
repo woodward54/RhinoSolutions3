@@ -109,7 +109,7 @@ Licence URI: http://www.os-templates.com/template-terms
               <li><a href="/pages/decorativechip.php">Decorative Chip</a></li>
               <li><a href="/pages/medici.php">Medici</a></li>
               <li><a href="#">Metallic</a></li>
-              <li><a href="/pages/garagemakeover.php">Garage Makeover</a></li>
+              <li><a href="/pages/garagemakeover.php">Storage Systems</a></li>
             </ul>
       </li>
       <li><a href="/pages/cleaning.php">Residential Construction</a></li>
@@ -150,7 +150,7 @@ Licence URI: http://www.os-templates.com/template-terms
           <li><a href="/pages/medici.php">Medici</a></li>
           <li><a href="#">Metallic</a></li>
           <li><a href="http://www.torginol.com/pdf/cf_brochure.pdf" target="_blank">Additional Colors Catalog</a></li>
-          <li><a href="/pages/garagemakeover.php">Garage Makeover</a></li>
+          <li><a href="/pages/garagemakeover.php">Storage Systems</a></li>
         </ul>
       </nav>
       <!--<div class="sdb_holder">

@@ -102,7 +102,7 @@ Licence URI: http://www.os-templates.com/template-terms
               <li><a href="/pages/decorativechip.php">Decorative Chip</a></li>
               <li><a href="/pages/medici.php">Medici</a></li>
               <!--<li><a href="/pages/metallic.php">Metallic</a></li>-->
-              <li><a href="/pages/garagemakeover.php">Garage Makeover</a></li>
+              <li><a href="/pages/garagemakeover.php">Storage Systems</a></li>
             </ul>
       </li>
       <li><a href="/pages/cleaning.php">Residential Construction</a></li>
@@ -196,7 +196,7 @@ Licence URI: http://www.os-templates.com/template-terms
         <p>Transform and protect your garage with our unique floor coatings</p>
       </article>
       <article class="one_quarter"><i class="icon fa fa-magic"></i>
-        <h4 class="font-x1 uppercase"><a href="pages/garagemakeover.php">Garage Makeover</a></h4>
+        <h4 class="font-x1 uppercase"><a href="pages/garagemakeover.php">Storage Systems</a></h4>
         <p>Completely renovate your garage with our beautiful floor coatings, custom cabinets, and unique storage solutions</p>
       </article>
       <article class="one_quarter"><i class="icon fa fa-home"></i>
