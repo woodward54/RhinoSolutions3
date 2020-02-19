@@ -305,13 +305,14 @@ Licence URI: http://www.os-templates.com/template-terms
       <h1>Storage Systems</h1>
       <!--<img class="imgr borderedbox inspace-5" src="../images/demo/imgr.gif" alt="">-->
       <div class="w3-content w3-display-container w3-center" style="width:95%">
+        <img class="mySlides dw-center" src="../images/gMakeover/render2.jpeg" style="width:70%">
         <img class="mySlides dw-center" src="../images/gMakeover/A.jpeg" style="width:70%">
         <img class="mySlides dw-center" src="../images/gMakeover/B.jpeg" style="width:70%">
         <img class="mySlides dw-center" src="../images/gMakeover/C.jpeg" style="width:70%">
         <img class="mySlides dw-center" src="../images/gMakeover/D.jpeg" style="width:70%">
         <img class="mySlides dw-center" src="../images/gMakeover/workbench2.jpg" style="width:94.5%">
         <img class="mySlides dw-center" src="../images/gMakeover/E.jpeg" style="width:70%">
-        <img class="mySlides dw-center" src="../images/gMakeover/F.jpeg" style="width:90%">
+        <img class="mySlides dw-center" src="../images/gMakeover/render1.jpeg" style="width:70%">
         <img class="mySlides dw-center" src="../images/gMakeover/IMG-0777.jpg" style="width:70%">
         <img class="mySlides dw-center" src="../images/gMakeover/IMG-0778.jpg" style="width:70%">
 
@@ -329,6 +330,7 @@ Licence URI: http://www.os-templates.com/template-terms
             <span class="w3-badge demo buttonc" onclick="currentDiv(6)"></span>
             <span class="w3-badge demo buttonc" onclick="currentDiv(7)"></span>
             <span class="w3-badge demo buttonc" onclick="currentDiv(8)"></span>
+            <span class="w3-badge demo buttonc" onclick="currentDiv(9)"></span>
             <span class="w3-badge demo buttonc" onclick="currentDiv(9)"></span>
           </div>
         </div>
